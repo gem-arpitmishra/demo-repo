@@ -3,3 +3,7 @@ sample text this is a plain git demonstration file
 
 we are learning git with github
 
+
+Trying to add some of the new texts here 
+
+git hub is great
