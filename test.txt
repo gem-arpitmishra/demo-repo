@@ -1,5 +1,4 @@
-sample text this is a plain git demonstration file
+modifying existing test and trying to overwrite the text written in previous branch 
 
-
-we are learning git with github
+using these texts we are trying to raise conflicts
 
